@@ -14,3 +14,16 @@ I am not responsible for any damage nor harm you may cause with this,
 
 
 THANK YOU FOR READING
+
+
+
+
+Instructions:
+Go to replit.com
+Copy the Python and Html code.
+make a new python repl by clicking the '+' sign
+select python
+copy the python and html code
+make a views folder
+put index.html in it
+End.
